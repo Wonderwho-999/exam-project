@@ -15,9 +15,9 @@ This is a web-based application built using **Google Apps Script** and **Google 
 
 - Arabic Title
 - English Title
-- Type (Royal Decree or Ministerial Decision)
+- Type (Royal Decree or Ministerial Decision or Circular)
 - Item Number
-- Issued By
+- Issued by
 - Date Issued
 - Gazette Number
 - Gazette Date
